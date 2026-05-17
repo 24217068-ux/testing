@@ -6,19 +6,19 @@
 # ============================================================================
 
 # Web application framework
-streamlit==1.28.0
+streamlit
 
 # Machine Learning - Classification algorithms
-scikit-learn==1.3.2
+scikit-learn
 
 # Data processing and manipulation
-pandas==2.0.3
+pandas
 
 # Numerical computing
-numpy==1.24.3
+numpy
 
 # Model persistence (save/load pickle files)
-joblib==1.3.2
+joblib
 
 # ============================================================================
 # END OF REQUIREMENTS
